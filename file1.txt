@@ -2,6 +2,7 @@ This is the initial start of git.
 Git commit messages should be in the present tense.
 Example: -m "complete styling nav bar" rather than "completed styling css..."
 git log will log all your commits.
+q will exit out of git log
 
 
 git status      lists files git added
