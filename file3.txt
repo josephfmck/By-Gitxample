@@ -4,3 +4,11 @@ make new branch when you have new idea but dont want it on master branch just ye
 once you know it works then you merge 
 
 then you can merge that branch with master later on
+
+git branch name-of-branch       make new branch
+git branch      to see all branches
+git checkout name-of-branch     to switch branch
+
+
+TO MERGE 
+git checkout master
