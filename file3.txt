@@ -1,0 +1,6 @@
+Branches and merging
+
+make new branch when you have new idea but dont want it on master branch just yet
+once you know it works then you merge 
+
+then you can merge that branch with master later on
