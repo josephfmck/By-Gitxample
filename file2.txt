@@ -1,0 +1,9 @@
+.gitignore
+
+make .gitignore file 
+inTerminal      touch .gitignore
+
+.gitignore file is where we add files that should be ignored when we commit to git
+
+simply add the name of the files to .gitignore
+each on a seperate line
