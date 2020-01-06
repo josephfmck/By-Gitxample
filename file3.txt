@@ -12,3 +12,4 @@ git checkout name-of-branch     to switch branch
 
 TO MERGE 
 git checkout master
+git merge name-of-branch

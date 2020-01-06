@@ -1,0 +1,17 @@
+Forking and pull requests
+
+Forking
+copy of it (not clone) to work on it
+used for another person to work on under their own repo
+once you fork you have full permission with copy
+
+diff account can fork on github making a duplicate 
+
+
+Pull Request
+if they want to push it to original repo
+like suggested changes to add 
+
+other account makes a pull request
+and tell the original owner the pull request
+approve the pull request and merge it with original
