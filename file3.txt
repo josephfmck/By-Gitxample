@@ -10,4 +10,5 @@ git branch      to see all branches
 git checkout name-of-branch     to switch branch
 
 
-*in new branch modifications* fjksjkf
+TO MERGE 
+git checkout master
