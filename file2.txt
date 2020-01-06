@@ -1,4 +1,4 @@
-.gitignore
+.gitignore will have files that do not get pushed
 
 make .gitignore file 
 inTerminal      touch .gitignore
@@ -7,3 +7,4 @@ inTerminal      touch .gitignore
 
 simply add the name of the files to .gitignore
 each on a seperate line
+
